@@ -1,3 +1,15 @@
+.MMM-DailyBibleVerse {
+    max-width: 100%;
+}
+
+.MMM-DailyBibleVerse .default {
+    max-width: 100%;
+}
+
+.MMM-DailyBibleVerse .medium {
+    max-width: 100%;
+}
+
 .xsmall {
   font-size: 22px;
   line-height: 28px;
