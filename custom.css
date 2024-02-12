@@ -10,6 +10,10 @@
     max-width: 100%;
 }
 
+.onSpotify {
+    transform: translate(160px, -30px) scale(0.9);
+}
+
 .xsmall {
   font-size: 22px;
   line-height: 28px;
